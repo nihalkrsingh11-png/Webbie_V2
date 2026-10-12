@@ -26,6 +26,11 @@ A custom motion controlled digital bot which is shaped like a spider (hence the 
 ---
 <img width="885" height="1005" alt="image" src="https://github.com/user-attachments/assets/1809a203-0cf9-4c15-b3cd-07f4d97da6bd" />
 
+## Had to change the PCB design to lower the price to match Tier 1's pricing:
+
+<img width="1153" height="847" alt="image" src="https://github.com/user-attachments/assets/8a173ba5-0c4e-44ef-897b-9cbc68f332bb" />
+
+
 **3D File Design**
 ---
 **Assembled (with PCB)**
@@ -49,5 +54,22 @@ A custom motion controlled digital bot which is shaped like a spider (hence the 
 **Code:**
 ---
 The code has been uploaded in Firmware/Webbie.ino
+---
+**Pricing**
+---
+| PART | QTY | UNIT | TOTAL | Vendor | Link |
+|---|---:|---:|---:|---|---|
+| XIAO ESP 32 C3 SMD | 1 | $5.00 | $5.00 | Seeed Studio | [Product page](https://www.seeedstudio.com/Seeed-XIAO-ESP32C3-p-5431.html) |
+| MPU6050 | 1 | $1.65 | $1.65 | Robu.in | [Product page](https://robu.in/product/mpu-6050-gyro-sensor-2-accelerometer/) |
+| DHT-11 | 1 | $0.80 | $0.80 | Robu.in | [Product page](https://robu.in/product/dht11-digital-relative-humidity-temperature-sensor-module/) |
+| 5V passive buzzer | 1 | $0.55 | $0.55 | Robu.in | [Product page](https://robu.in/product/1-month-warranty-1248/) |
+| 9.6-inch OLED | 1 | $2.20 | $2.20 | — | — |
+| Keycaps | 2 | $0.50 | $1.00 | 3D print (local) | — |
+| 10k and 220 resistor | 1 | $0.10 | $0.10 | Robu.in | [Product page](https://robu.in/product/mfr-25frf52-10k-yageo-metal-film-resistors-10k%CF%89-250mw-%C2%B1100ppm-%E2%84%83-%C2%B11-plugind2-4xl6-3mm-through-hole-resistors-rohs/?gad_source=1&gad_campaignid=17416544847&gbraid=0AAAAADvLFWceYLUX-qBsNxN0CJ37U0DKG&gclid=CjwKCAjw56zWBhB0EiwAdPOQOeZAVLytL4rToYgqMyqIt-1qVWCJwuQfM8USeUqau35siGOKSAAaURoC7nEQAvD_BwE) |
+| PCB | 5 | $2.16 | $12.74 | Lion Circuits | — |
+| MX Switches | 2 | $3.16 | $3.16 | Local | — |
+| Case 3D print | 1 | $2.80 | $2.80 | Local | — |
+| **Grand total** |  |  | **$30.00** |  |  |
+---
 
 ## Thanks for reading. 
