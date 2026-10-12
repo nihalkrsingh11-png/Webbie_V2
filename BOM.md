@@ -20,7 +20,7 @@
 | [10k and 220 resistor](https://robu.in/product/mfr-25frf52-10k-yageo-metal-film-resistors-10k%CF%89-250mw-%C2%B1100ppm-%E2%84%83-%C2%B11-plugind2-4xl6-3mm-through-hole-resistors-rohs/?gad_source=1&gad_campaignid=17416544847&gbraid=0AAAAADvLFWceYLUX-qBsNxN0CJ37U0DKG&gclid=CjwKCAjw56zWBhB0EiwAdPOQOeZAVLytL4rToYgqMyqIt-1qVWCJwuQfM8USeUqau35siGOKSAAaURoC7nEQAvD_BwE) | Resistance | 1 | $0.10 | $0.10 | [robu.in](https://robu.in/product/mfr-25frf52-10k-yageo-metal-film-resistors-10k%CF%89-250mw-%C2%B1100ppm-%E2%84%83-%C2%B11-plugind2-4xl6-3mm-through-hole-resistors-rohs/?gad_source=1&gad_campaignid=17416544847&gbraid=0AAAAADvLFWceYLUX-qBsNxN0CJ37U0DKG&gclid=CjwKCAjw56zWBhB0EiwAdPOQOeZAVLytL4rToYgqMyqIt-1qVWCJwuQfM8USeUqau35siGOKSAAaURoC7nEQAvD_BwE) |
 | [PCB](https://www.lioncircuits.com/quote?layers=2&units=5&dimensionX=50&dimensionY=40) | The Main PCB | 5 | $2.55 | $12.75 | [Lion Circuits](https://www.lioncircuits.com/quote?layers=2&units=5&dimensionX=50&dimensionY=40) |
 | **Parts subtotal** | — | — | — | **$23.05** | — |
-| **Tax & shipping** | — | — | — | **$2.00** | — |
-| **Total** | — | — | — | **$25.05** | — |
+| **Tax & shipping** | — | — | — | **$0.00** | — |
+| **Total** | — | — | — | **$23.05** | — |
 
-$4.95 left of the tier's funding.
+$6.95 left of the tier's funding.
