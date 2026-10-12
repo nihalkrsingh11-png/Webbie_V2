@@ -63,11 +63,11 @@ The code has been uploaded in Firmware/Webbie.ino
 | MPU6050 | 1 | $1.65 | $1.65 | Robu.in | [Product page](https://robu.in/product/mpu-6050-gyro-sensor-2-accelerometer/) |
 | DHT-11 | 1 | $0.80 | $0.80 | Robu.in | [Product page](https://robu.in/product/dht11-digital-relative-humidity-temperature-sensor-module/) |
 | 5V passive buzzer | 1 | $0.55 | $0.55 | Robu.in | [Product page](https://robu.in/product/1-month-warranty-1248/) |
-| 9.6-inch OLED | 1 | $2.20 | $2.20 | — | — |
+| 9.6-inch OLED | 1 | $2.20 | $2.20 | Robu.in | [Product page](https://robu.in/product/0-96-inch-i2c-iic-oled-lcd-module-4pin-with-vcc-gnd-white/) |
 | Keycaps | 2 | $0.50 | $1.00 | 3D print (local) | — |
 | 10k and 220 resistor | 1 | $0.10 | $0.10 | Robu.in | [Product page](https://robu.in/product/mfr-25frf52-10k-yageo-metal-film-resistors-10k%CF%89-250mw-%C2%B1100ppm-%E2%84%83-%C2%B11-plugind2-4xl6-3mm-through-hole-resistors-rohs/?gad_source=1&gad_campaignid=17416544847&gbraid=0AAAAADvLFWceYLUX-qBsNxN0CJ37U0DKG&gclid=CjwKCAjw56zWBhB0EiwAdPOQOeZAVLytL4rToYgqMyqIt-1qVWCJwuQfM8USeUqau35siGOKSAAaURoC7nEQAvD_BwE) |
 | PCB | 5 | $2.16 | $12.74 | Lion Circuits | — |
-| MX Switches | 2 | $3.16 | $3.16 | Local | — |
+| MX Switches | 2 | $1.58 | $3.16 | Local | — |
 | Case 3D print | 1 | $2.80 | $2.80 | Local | — |
 | **Grand total** |  |  | **$30.00** |  |  |
 ---
